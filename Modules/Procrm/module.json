@@ -1,0 +1,11 @@
+{
+    "name": "Procrm",
+    "alias": "procrm",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Procrm\\Providers\\ProcrmServiceProvider"
+    ],
+    "files": []
+}

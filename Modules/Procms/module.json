@@ -1,0 +1,11 @@
+{
+    "name": "Procms",
+    "alias": "procms",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Procms\\Providers\\ProcmsServiceProvider"
+    ],
+    "files": []
+}
